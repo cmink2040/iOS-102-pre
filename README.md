@@ -2,7 +2,7 @@
 - made UI more appealing
 - added labels and buttons
 
-[github.com/cmink2040/iOS-102-pre/PReplay_Final1734567108.gif]
+![PReplay_Final1734567108.gif]
 
 
 App Brainstorming:
