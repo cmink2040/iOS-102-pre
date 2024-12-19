@@ -2,6 +2,8 @@
 - made UI more appealing
 - added labels and buttons
 
+[PReplay_Final1734567108.gif]
+
 
 App Brainstorming:
 1. Discord - Messaging system, avatars and status updates, convenience of adding friends.
