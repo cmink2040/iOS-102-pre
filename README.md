@@ -2,7 +2,7 @@
 - made UI more appealing
 - added labels and buttons
 
-![gif](PReplay_Final1734567108.gif)
+![gif](PReplay_Final1734567108.gif "demo")
 
 
 App Brainstorming:
